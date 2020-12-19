@@ -3,7 +3,7 @@
 ## Hi! :-)
 
 - What I'm Here To Do For You
-  - set content for what we work on
+  - set context for what we work on
   - help and support you
   - advocate for you and the team with the rest of the company
   - build and refine our team
