@@ -27,7 +27,7 @@
 ## My communication preference (most preferred→ least preferred):
 
 - Face2Face/Zoom → Slack→ Email.
-- I sometimes Slack/email outside of business hours if something is fresh in my mind. Unless you're on-call and I flag it as urgent, it can wait until the next day
+- I sometimes Slack/email outside of business hours if something is fresh in my mind. Unless you're on-call and I flag it as urgent, it can wait until the next business day
 - I like fast turnaround and acknowledgement on written communications. I like quick "got it" or "on it" type acknowledgment notes so I know things that we're discussing are moving. If it's an "FYI" there's no need to respond.
 - it's impossible to over-communicate. Do not assume I know what you're up to. If you're ever debating including me on a communication, do it.
 - I don't process new/complex information in realtime - I am more useful if I can background process it
