@@ -1,6 +1,6 @@
 # Chris Bellini's Manager Readme
 
-## Hi! 
+## Hi! :-)
 
 - What I'm Here To Do For You
   - set context for what we work on
