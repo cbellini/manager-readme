@@ -56,6 +56,6 @@
   - Sometimes it takes a while for me to know that I know something until I've had a chance to review my notes
   - If I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 - I can do "management speak" when applicable, but I default to being candid
-- I often use analogies or cultural references to convey an idea or when I'm looking for validate my understanding of something. If you're not familiar with them or believe them to be inaccurate, let me know in the moment
+- I often use analogies or pop culture references to convey an idea or when I'm looking for validate my understanding of something. If you're not familiar with them or believe them to be inaccurate, let me know in the moment
 - If I stray from anything in this document, privately call me out on it
 - This document is a living breathing thing and likely incomplete. I will update it frequently and would appreciate your feedback.
