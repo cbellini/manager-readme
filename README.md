@@ -17,8 +17,8 @@
 
 - be transparent about what's happened, what's happening, and what's going to happen
 - advocate proactive engineering efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
-- promote a culture of continuously fixing things
-- assume that everyone has good intentions
+- promote a culture of continuously improving and maintaining things
+- assume that everyone we work with has good intentions
 
 ## My Communication Style
 
