@@ -51,7 +51,7 @@
 
 ## Nuance / Errata (aka: people are complicated and I'm no different)
 
-- I make sense of the world around me by viewing it as flowcharts (boxes and arrows)
+- I make sense of the world around me by viewing it as flow and/or sequence diagrams
 - My memory sometimes fails me so I compensate by taking lots of notes
   - Sometimes it takes a while for me to know that I know something until I've had a chance to review my notes
   - If I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
