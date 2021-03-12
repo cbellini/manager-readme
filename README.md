@@ -11,7 +11,7 @@
 - What I Won't Do
   - your job
   - tell you how to do your job
-    - tell me if I ever do this
+    - let me know if I ever do this
 
 ## My North Star
 
@@ -41,13 +41,13 @@
 
 ## 1:1s
 
-- this is primarily your agenda.
+- I propose a light structure for this meeting but it's primarily focused on your agenda items.
 - every two weeks for 30 minutes
   - this can be flexible
 - I like using 1:1s to check-in on how you're doing, what you need from me, personnel issues, broad strategy questions discuss, PD
 - doesn't have to include status updates if you don't want
 - we'll keep track of the topics that we talk about in a OneNote notebook that only you and I have access to
-- once a quarter, we'll review your work progress against broader goals that we've established as well as company initiatives
+- once a quarter, we'll review your work progress against broader goals that we've established, as well tie them to company initiatives
 
 ## Nuance / Errata (aka: people are complicated and I'm no different)
 
