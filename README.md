@@ -42,7 +42,7 @@
 ## 1:1s
 
 - I propose a light structure for this meeting but it's primarily focused on your agenda items.
-- every two weeks for 30 minutes
+- every week for at least 30 minutes
   - this can be flexible
 - I like using 1:1s to check-in on how you're doing, what you need from me, personnel issues, broad strategy questions discuss, PD
 - doesn't have to include status updates if you don't want
