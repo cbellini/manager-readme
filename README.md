@@ -31,7 +31,7 @@
 - I like fast turnaround and acknowledgement on written communications. I like quick "got it" or "on it" type acknowledgment notes so I know things that we're discussing are moving. If it's an "FYI" there's no need to respond.
 - it's impossible to over-communicate. Do not assume I know what you're up to. If you're ever debating including me on a communication, do it.
 - I don't process new/complex information in realtime - I am more useful if I can background process it
-- I can talk anytime (24x7) if something is urgent - my Outlook calendar is not set in stone
+- I can talk anytime (24x7) if something is urgent - my calendar is not set in stone
 - I strive to give feedback that is:
   - helpful
   - humble
@@ -46,7 +46,7 @@
   - this can be flexible
 - I like using 1:1s to check-in on how you're doing, what you need from me, personnel issues, broad strategy questions discuss, PD
 - doesn't have to include status updates if you don't want
-- we'll keep track of the topics that we talk about in a OneNote notebook that only you and I have access to
+- we'll keep track of the topics that we talk about in a document notebook that only you and I have access to
 - once a quarter, we'll review your work progress against broader goals that we've established, as well tie them to company initiatives
 
 ## Nuance / Errata (aka: people are complicated and I'm no different)
